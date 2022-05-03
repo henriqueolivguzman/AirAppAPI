@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirAppAPI", "AirApp\AirAppAPI.csproj", "{A76C5ADE-D4F6-46C1-89BD-9D0537B466E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{807077E7-F8FD-4CF2-A9B6-F6312D35C5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{235AB5C3-2B91-4055-AE06-B6EEDCA79B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A76C5ADE-D4F6-46C1-89BD-9D0537B466E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76C5ADE-D4F6-46C1-89BD-9D0537B466E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76C5ADE-D4F6-46C1-89BD-9D0537B466E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76C5ADE-D4F6-46C1-89BD-9D0537B466E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807077E7-F8FD-4CF2-A9B6-F6312D35C5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807077E7-F8FD-4CF2-A9B6-F6312D35C5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807077E7-F8FD-4CF2-A9B6-F6312D35C5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807077E7-F8FD-4CF2-A9B6-F6312D35C5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{235AB5C3-2B91-4055-AE06-B6EEDCA79B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235AB5C3-2B91-4055-AE06-B6EEDCA79B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235AB5C3-2B91-4055-AE06-B6EEDCA79B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235AB5C3-2B91-4055-AE06-B6EEDCA79B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B23AD3D-7C97-4A08-B96B-D0EDA59A315A}
+	EndGlobalSection
+EndGlobal
